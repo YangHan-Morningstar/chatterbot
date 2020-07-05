@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec7418d9-0dee-4f92-8456-5a6fb20ddb26" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/language/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/language/langconv.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/language/zh_wiki.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/process_pipelines/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/process_pipelines/chatterbot.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/process_pipelines/douban.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/process_pipelines/ptt.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/process_pipelines/qingyun.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/process_pipelines/sms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/process_pipelines/subtitle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/process_pipelines/tieba.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/process_pipelines/weibo.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/process_pipelines/xiaohuangji.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/readme.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus/util.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/DataSet/chinese_chatbot_corpus" />
+  </component>
+  <component name="ProjectId" id="1XPkfQUFFsQo26PdhVdezzBUgeO" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.temp_file">
+    <configuration name="BaiDuVoiveGenerator" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Catalina" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Model/VoiceGeneratorModule" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Model/VoiceGeneratorModule/BaiDuVoiveGenerator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="CodeTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Catalina" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab/CodeTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Catalina" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="temp_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Catalina" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/temp_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Catalina" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.temp_file" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.BaiDuVoiveGenerator" />
+        <item itemvalue="Python.CodeTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec7418d9-0dee-4f92-8456-5a6fb20ddb26" name="Default Changelist" comment="" />
+      <created>1580955219099</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1580955219099</updated>
+      <workItem from="1580955222090" duration="43849000" />
+      <workItem from="1581662460591" duration="33000" />
+      <workItem from="1582029435705" duration="7989000" />
+      <workItem from="1583541967582" duration="1204000" />
+      <workItem from="1583739950936" duration="2538000" />
+      <workItem from="1585462763405" duration="132000" />
+      <workItem from="1585466141470" duration="956000" />
+      <workItem from="1585467431217" duration="882000" />
+      <workItem from="1585473831236" duration="2287000" />
+      <workItem from="1585483476478" duration="186000" />
+      <workItem from="1585483775046" duration="6000" />
+      <workItem from="1585486347964" duration="15000" />
+      <workItem from="1585551829594" duration="3844000" />
+      <workItem from="1586306414745" duration="1990000" />
+      <workItem from="1586773279126" duration="671000" />
+      <workItem from="1586789392312" duration="479000" />
+      <workItem from="1588251288560" duration="1847000" />
+      <workItem from="1589431714582" duration="1099000" />
+      <workItem from="1592724937760" duration="566000" />
+      <workItem from="1593176480735" duration="373000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="683" y="322" key="FileChooserDialogImpl" timestamp="1586306486676">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="683" y="322" key="FileChooserDialogImpl/0.0.1792.1120@0.0.1792.1120" timestamp="1586306486676" />
+    <state width="1750" height="284" key="GridCell.Tab.0.bottom" timestamp="1589686711749">
+      <screen x="0" y="23" width="1792" height="1041" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.bottom/0.0.1792.1120@0.0.1792.1120" timestamp="1586333018007" />
+    <state width="1750" height="284" key="GridCell.Tab.0.bottom/0.23.1792.1041@0.23.1792.1041" timestamp="1589686711749" />
+    <state width="1750" height="284" key="GridCell.Tab.0.center" timestamp="1589686711749">
+      <screen x="0" y="23" width="1792" height="1041" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.center/0.0.1792.1120@0.0.1792.1120" timestamp="1586333018006" />
+    <state width="1750" height="284" key="GridCell.Tab.0.center/0.23.1792.1041@0.23.1792.1041" timestamp="1589686711749" />
+    <state width="1750" height="284" key="GridCell.Tab.0.left" timestamp="1589686711749">
+      <screen x="0" y="23" width="1792" height="1041" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.left/0.0.1792.1120@0.0.1792.1120" timestamp="1586333018006" />
+    <state width="1750" height="284" key="GridCell.Tab.0.left/0.23.1792.1041@0.23.1792.1041" timestamp="1589686711749" />
+    <state width="1750" height="284" key="GridCell.Tab.0.right" timestamp="1589686711749">
+      <screen x="0" y="23" width="1792" height="1041" />
+    </state>
+    <state width="1750" height="318" key="GridCell.Tab.0.right/0.0.1792.1120@0.0.1792.1120" timestamp="1586333018007" />
+    <state width="1750" height="284" key="GridCell.Tab.0.right/0.23.1792.1041@0.23.1792.1041" timestamp="1589686711749" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1586306498069">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1586306498069" />
+    <state x="573" y="382" key="com.intellij.ide.util.TipDialog" timestamp="1592891937722">
+      <screen x="0" y="23" width="1792" height="1028" />
+    </state>
+    <state x="573" y="392" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1586306416061" />
+    <state x="573" y="382" key="com.intellij.ide.util.TipDialog/0.23.1792.1028@0.23.1792.1028" timestamp="1592891937722" />
+    <state x="573" y="385" key="com.intellij.ide.util.TipDialog/0.23.1792.1036@0.23.1792.1036" timestamp="1592724938653" />
+    <state x="573" y="387" key="com.intellij.ide.util.TipDialog/0.23.1792.1041@0.23.1792.1041" timestamp="1589431715110" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Catalina$CodeTest.coverage" NAME="CodeTest Coverage Results" MODIFIED="1580994287978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Lab" />
+    <SUITE FILE_PATH="coverage/Catalina$main.coverage" NAME="main Coverage Results" MODIFIED="1585551870087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Catalina$test.coverage" NAME="test Coverage Results" MODIFIED="1589432068623" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Catalina$KerasTransformer.coverage" NAME="KerasTransformer Coverage Results" MODIFIED="1580993341466" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model/ConversationMoudle" />
+    <SUITE FILE_PATH="coverage/Catalina$temp_file.coverage" NAME="temp_file Coverage Results" MODIFIED="1589432242073" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Catalina$BaiDuVoiveGenerator.coverage" NAME="BaiDuVoiveGenerator Coverage Results" MODIFIED="1580999675218" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Model/VoiceGeneratorModule" />
+  </component>
+</project>
